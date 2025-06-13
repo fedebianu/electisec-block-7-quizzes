@@ -16,3 +16,7 @@ docs/
 # VSCode
 .vscode/
 .wake/
+
+# Docker
+data/
+logs/
